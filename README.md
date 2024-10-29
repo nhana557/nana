@@ -1,5 +1,5 @@
 <h1 align="center">Hallo, I'm Taryana</h1>
-<img src="image/cover.jpg" width="100%">
+<img src="image/cover.jpeg" width="100%">
 <h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhana557&label=Profile%20views&color=0e75b6&style=flat" alt="nhana" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center" style="padding: 5px; "> 
+<div align="center" style="padding: 20px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 80%; margin: 0 auto;> 
     <h3>Fullstack Web Developer <br> </h3>
   <!-- Frontend Technologies -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -79,9 +79,4 @@
 <h3 align="center">Trophies:</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nhana557&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies"/>
-</p>
-
-<h3 align="center">Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nhana557&bg_color=ffffff&color=0e75b6&line=24292e&point=24292e&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
