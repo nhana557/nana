@@ -1,5 +1,5 @@
 <h1 align="center">Hallo, I'm Taryana</h1>
-<img src="image/cover.png" width="100%">
+<img src="image/cover.jpg" width="100%">
 <h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhana557&label=Profile%20views&color=0e75b6&style=flat" alt="nhana" /> </p>
@@ -15,7 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center"> Fullstack Web Developer <br> 
+<div align="center" style="padding: 5px; "> 
+    <h3>Fullstack Web Developer <br> </h3>
   <!-- Frontend Technologies -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="75" height="75"/>
@@ -62,7 +63,7 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" width="75" height="75"/>
   </a> &nbsp;&nbsp;&nbsp;
-</p>
+</div>
 
 <br>
 
