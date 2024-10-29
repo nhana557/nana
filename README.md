@@ -24,6 +24,17 @@
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" >
     <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="75" height="75"/>
   </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="75" height="75"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="75" height="75"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML" width="75" height="75"/>
+</a> &nbsp;&nbsp;&nbsp;
 
   <!-- Backend Technologies -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
