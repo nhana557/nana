@@ -33,7 +33,7 @@
 </a> &nbsp;&nbsp;&nbsp;
 
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML" width="75" height="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="75" height="75"/>
 </a> &nbsp;&nbsp;&nbsp;
 
   <!-- Backend Technologies -->
