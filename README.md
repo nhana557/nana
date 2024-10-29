@@ -15,14 +15,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center" style="padding: 20px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 80%; margin: 0 auto;> 
-    <h3>Fullstack Web Developer <br> </h3>
+<div align="center" style="padding: 20px; backgroundColor: #FFFFFF;"> 
+    <h3>Fullstack Web Developer </h3>
   <!-- Frontend Technologies -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" >
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="75" height="75"/>
   </a> &nbsp;&nbsp;&nbsp;
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="75" height="75"/>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" >
+    <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="75" height="75"/>
   </a> &nbsp;&nbsp;&nbsp;
 
   <!-- Backend Technologies -->
@@ -30,7 +30,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="75" height="75"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="75" height="75"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" height="75" width="100" />
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang" width="75" height="75"/>
